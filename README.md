@@ -9,5 +9,5 @@
 ![results](https://github.com/user-attachments/assets/2315e8bd-b5d3-444d-9cee-b03fd1b45b26)
 ## Testing 
 The part includes the tracking of the vehicles using object id. The speed of the vehicles in videos can be estimated and exported to csv file using the testing code.
-1) The sample of a video output is can be seen in the link: [click here](https://drive.google.com/file/d/1RDwsVZXLWhhNdFyGzvi6VnxE6ytAhEMT/view?usp=drive_link)
-2) The output csv file for the above video showing speed of the vehicle at each instance can be found via this link: [click here](https://drive.google.com/file/d/1-0W0-dqqF9xx2KTsyxIEc5L83gLThGic/view?usp=drive_link)
+1) The sample of a video output is can be seen in the link: [click here](https://drive.google.com/file/d/1RDwsVZXLWhhNdFyGzvi6VnxE6ytAhEMT/view?usp=sharing)
+2) The output csv file for the above video showing speed of the vehicle at each instance can be found via this link: [click here](https://drive.google.com/file/d/1-0W0-dqqF9xx2KTsyxIEc5L83gLThGic/view?usp=sharing)
