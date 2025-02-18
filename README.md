@@ -1,7 +1,7 @@
 # Vehicle-speed-estimation-through-aerial-videos
 ## Training
 1) Yolo 11n model has been used for training
-2) VisDrone Dataset has been used for training
+2) VisDrone Dataset has been used for training. The yaml file for the data set can be downloaded from [here](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/cfg/datasets/VisDrone.yaml)
 3) The model is trained for 100 epochs
 4) The normalized confusion matrix of the training is shown in below image
 ![confusion_matrix_normalized](https://github.com/user-attachments/assets/d3bc9424-a35a-4289-97a3-65c62d1ae559)
